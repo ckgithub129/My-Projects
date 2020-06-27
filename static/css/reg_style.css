@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+body{
+    font-family: Arial;
+    background-image:linear-gradient(rgba(0,0,0,0.05),rgba(0,0,0,0.05)), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNiEHky2CrqhQ3SI3B6NhB-D4_5igQqWkuy57vvjENJr5tBw4jxQ");
+    background-size: cover;
+    }
+h1{
+    text-align: center;
+    color: #fff;
+}
+label{
+    color: white;
+    font-family: Arial Narrow;
+    font-size: 20px;
+}
+.btn1{
+    text-decoration: none;
+    font-size: 20px;
+    border: 1px solid transparent;
+    margin-left: 25px;
+    transition: 0.6s ease;
+}
+.btn1:hover{
+    background-color: #fff;
+    color: #000000;
+}
